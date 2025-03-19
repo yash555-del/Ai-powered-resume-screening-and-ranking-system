@@ -25,13 +25,7 @@ resume_screening_app/
 │── .gitignore                   
 
 🛠️ Installation & Setup
-
-1️⃣ Clone the Repository
-
-git clone https://github.com/Akshith1007/AI-powered-Resume-Screening-and-Ranking-System.git
-
-
-2️⃣ (Optional) Create a Virtual Environment
+ (Optional) Create a Virtual Environment
 
 python -m venv .venv
 
@@ -39,11 +33,11 @@ Activate on Windows: source .venv\Scripts\activate
 
 Activate on Mac/Linux: source .venv/bin/activate
 
-3️⃣ Install Dependencies
+1. Install Dependencies
 
 pip install -r requirements.txt
 
-4️⃣ Run the Application
+2. Run the Application
 
 streamlit run app.py
 
